@@ -1,6 +1,5 @@
 <h1>MySkills</h1>
 <br />
-<br />
 
 <h3>Tecnologias</h3>
 <ul>
@@ -14,4 +13,4 @@
 
 <br />
 
-<img src="./assets/MySkills.jpg">
+<img src="./assets/MySkills.jpg" style="max-width: 400px">
