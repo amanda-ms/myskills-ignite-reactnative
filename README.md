@@ -13,4 +13,4 @@
 
 <br />
 
-<img src="./assets/MySkills.jpg" style="max-width: 400px">
+<img src="./assets/MySkills.jpg" >
