@@ -1,5 +1,4 @@
 <h1>MySkills</h1>
-<br />
 
 <h3>Tecnologias</h3>
 <ul>
